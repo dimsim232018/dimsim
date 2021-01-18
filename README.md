@@ -1,4 +1,4 @@
-# dimsim
+# Instructions 
 
 * Run the following command to extract cities:
 
