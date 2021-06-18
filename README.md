@@ -1,10 +1,6 @@
 # Instructions 
 
-* Run the following command to extract cities:
 
-```
-python lat_long_expansion.py
-```
 
 * Run the following commands to create Neo4j Import Tool CSV files:
 
